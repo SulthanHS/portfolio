@@ -1,0 +1,1 @@
+<img src="https://placehold.co/100" alt="Placeholder Image" class="w-32 h-32 object-cover rounded-full border-4 border-purple-500 animation-float mb-6">
