@@ -33,8 +33,8 @@
           <span class="hero-highlight">Let's create something amazing together!</span>
         </p>
         <div class="hero-buttons">
-          <a href="#projects" class="btn-glass">
-            <span>See My Work</span>
+          <a href="#activities" class="btn-glass">
+            <span>See My Activities</span>
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
           </a>
           <a href="#contact" class="btn-glass-secondary">
