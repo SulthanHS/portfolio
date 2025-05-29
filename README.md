@@ -17,6 +17,5 @@ This portfolio showcases my projects, skills, and experience in web development.
 ## Tech Stack
 
 - SvelteKit
-- TailwindCSS
 - JavaScript/TypeScript
 - HTML5/CSS3
